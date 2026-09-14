@@ -29,3 +29,4 @@ Data Visualization & Dashboarding
 Data Cleaning & Feature Engineering
 
 Exploratory Data Analysis (EDA)
+https://github.com/ahedkhan24-source/Titanic-Dashboard/blob/main/Titanic%20Final%20Dashboard.png.png
